@@ -2,7 +2,7 @@
 
 > Selling products with AI-made short videos and AI-written listings: real worked examples, the real inputs they started from, and the exact Skills that produced them.
 >
-> Want the Skills that made these? → **Seller Content Skills** — 3 free below, the full 10-skill pack is $9.99/mo · $79/yr · $169 lifetime. *(Store link: [ADD AT LAUNCH])*
+> Want the Skills that made these? → **[Seller Content Skills](https://whop.com/clipforge-298e/seller-content-skills-the-full-10-skill-pack-for-sellers-3-free-7-premium/)** — 3 free below, the full 10-skill pack is $9.99/mo · $79/yr · $169 lifetime.
 
 ## How this repo works
 
@@ -48,6 +48,11 @@ No build step, no dependencies, no API keys. If your agent can't read skill file
 | 10 | `whop-clip-cutter` | Authorised long video → 5 bounty-ready clips with hooks, captions, checklists | Member |
 
 **Pricing:** $9.99/mo · $79/yr · $169 lifetime. The lifetime price rises $20 for every 10 skills added to the catalogue — that's stated here, in advance, not sprung later. Free skills stay free.
+
+## Get the full pack
+
+The 3 Skills marked **Free** above are the complete, working versions — not demos. The other 7 (product image briefs, hook variants, Etsy SEO, KDP planning, Xiaohongshu covers, local-business Reels, Whop clip cutting) are in the paid library: **$9.99/mo · $79/yr · $169 lifetime** → [Seller Content Skills](https://whop.com/clipforge-298e/seller-content-skills-the-full-10-skill-pack-for-sellers-3-free-7-premium/)
+
 
 ## Categories (growing)
 
